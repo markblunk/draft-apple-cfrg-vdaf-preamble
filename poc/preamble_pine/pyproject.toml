@@ -1,0 +1,16 @@
+# NOTE: `vdaf_poc` at -11 also needs SageMath, which is not installable from
+# PyPI; see README.md. `uv run` alone will not work for this directory.
+[project]
+name = "preamble-pine-poc"
+description = "Legacy PREAMBLE VDAF (PINE variant), kept to support PINE"
+version = "0.0.1"
+requires-python = ">=3.12,<4"
+dependencies = [
+    "vdaf_poc @ git+https://github.com/cfrg/draft-irtf-cfrg-vdaf@draft-irtf-cfrg-vdaf-11#subdirectory=poc",
+    "vdaf_pine_poc @ git+https://github.com/junyechen1996/draft-chen-cfrg-vdaf-pine@junyec/split-api#subdirectory=poc",
+]
+
+[tool.uv]
+# The modules in this directory are imported as top-level scripts
+# (`import preamble_pine`), not as an installable package.
+package = false
