@@ -108,7 +108,7 @@ Table of Contents
 1.  Introduction
 
    (RFC EDITOR: Remove this paragraph.)  The source for this draft and
-   the reference code can be found at https://github.com/junyechen1996/
+   the reference code can be found at https://github.com/markblunk/
    draft-apple-cfrg-vdaf-preamble.
 
    Prio3 [VDAF] is a widely deployed protocol used in the aggregation of
