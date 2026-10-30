@@ -1,0 +1,3 @@
+# Automatically generated CODEOWNERS
+# Regenerate with `make update-codeowners`
+draft-apple-cfrg-vdaf-preamble.md mblunk@apple.com junyec@apple.com palak_jain@apple.com

@@ -20,8 +20,8 @@ venue:
   type: "Research Group"
   mail: "cfrg@ietf.org"
   arch: "https://mailarchive.ietf.org/arch/search/?email_list=cfrg"
-  github: "junyechen1996/draft-apple-cfrg-vdaf-preamble"
-  latest: "https://junyechen1996.github.io/draft-apple-cfrg-vdaf-preamble.html"
+  github: "markblunk/draft-apple-cfrg-vdaf-preamble"
+  latest: "https://markblunk.github.io/draft-apple-cfrg-vdaf-preamble.html"
 
 author:
  -
@@ -99,7 +99,7 @@ L2 norm).
 
 (RFC EDITOR: Remove this paragraph.) The source for this draft and the reference
 code can be found at
-https://github.com/junyechen1996/draft-apple-cfrg-vdaf-preamble.
+https://github.com/markblunk/draft-apple-cfrg-vdaf-preamble.
 
 Prio3 {{VDAF}} is a widely deployed protocol used in the aggregation of
 federated statistics: each client secret-shares a measurement (such as a binary
