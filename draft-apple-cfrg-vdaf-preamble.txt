@@ -26,7 +26,7 @@ About This Document
    This note is to be removed before publishing as an RFC.
 
    The latest revision of this draft can be found at
-   https://junyechen1996.github.io/draft-apple-cfrg-vdaf-preamble.html.
+   https://markblunk.github.io/draft-apple-cfrg-vdaf-preamble.html.
    Status information for this document may be found at
    https://datatracker.ietf.org/doc/draft-apple-cfrg-vdaf-preamble/.
 
@@ -36,7 +36,7 @@ About This Document
    at https://www.ietf.org/mailman/listinfo/cfrg/.
 
    Source for this draft and an issue tracker can be found at
-   https://github.com/junyechen1996/draft-apple-cfrg-vdaf-preamble.
+   https://github.com/markblunk/draft-apple-cfrg-vdaf-preamble.
 
 Status of This Memo
 
